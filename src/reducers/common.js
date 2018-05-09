@@ -1,7 +1,7 @@
 const defaultState = {
-    appName: 'Conduit'
-  };
+  appName: 'App React'
+};
   
-  export default (state = defaultState, action) => {
-    return state;
-  };
+export default (state = defaultState, action) => {
+  return state;
+};
