@@ -6,6 +6,10 @@ export default [
     {
       title: 'Login',
       url: '/login'
+    },
+    {
+      title: 'Uikit',
+      url: '/uikit'
     }
   ];
   
