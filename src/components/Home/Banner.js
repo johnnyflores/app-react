@@ -1,5 +1,7 @@
 import React from 'react';
 
+import '../Global/css/Banner.css';
+
 const Banner = ({ appName }) => {
   return (
     <div className="banner">
